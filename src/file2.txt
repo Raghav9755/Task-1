@@ -1,4 +1,0 @@
-Nothing !
-To check diff command
-change 2
-change 3
